@@ -1,5 +1,7 @@
 # 📊 Segmentação de Clientes RFM com Spark SQL e PySpark
 
+Link para rodar o projeto no Colab -> https://colab.research.google.com/drive/1i21tQjm5ReTd73dL36xar2gEQrOPQYLM?usp=sharing
+
 ## 📌 Visão Geral
 Este projeto tem como objetivo construir uma **segmentação de clientes baseada na metodologia RFM (Recência, Frequência e Monetário)** utilizando **Spark SQL** e **PySpark**, simulando um ambiente de dados em larga escala semelhante ao encontrado em empresas data-driven.
 
